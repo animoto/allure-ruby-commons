@@ -3,21 +3,21 @@ PATH
   specs:
     allure-ruby-adaptor-api (0.6.6)
       mimemagic
-      nokogiri (~> 1.6.0)
+      nokogiri (~> 1.8)
       uuid
 
 GEM
   remote: https://rubygems.org/
   specs:
-    macaddr (1.7.1)
-      systemu (~> 2.6.2)
-    mimemagic (0.2.1)
-    mini_portile (0.6.2)
-    nokogiri (1.6.6.2)
-      mini_portile (~> 0.6.0)
-    rake (10.3.2)
-    systemu (2.6.4)
-    uuid (2.3.7)
+    macaddr (1.7.2)
+      systemu (~> 2.6.5)
+    mimemagic (0.3.5)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.10)
+      mini_portile2 (~> 2.4.0)
+    rake (13.0.1)
+    systemu (2.6.5)
+    uuid (2.3.9)
       macaddr (~> 1.0)
 
 PLATFORMS
